@@ -1,0 +1,13 @@
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\bin\Debug\libhgui.exe
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\bin\Debug\libhgui.pdb
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\MainWindow.baml
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\App.g.cs
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\libhgui_MarkupCompile.cache
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\libhgui.g.resources
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\libhgui.Properties.Resources.resources
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\libhgui.exe
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Debug\libhgui.pdb

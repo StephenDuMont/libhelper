@@ -1,0 +1,7 @@
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\MyAddin3\bin\Debug\MyAddin3.dll
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\MyAddin3\bin\Debug\MyAddin3.pdb
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\MyAddin3\bin\Debug\MyAddin3.xml
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\MyAddin3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\MyAddin3\obj\Debug\MyAddin3.csproj.ResolveComReference.cache
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\MyAddin3\obj\Debug\MyAddin3.dll
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\MyAddin3\obj\Debug\MyAddin3.pdb

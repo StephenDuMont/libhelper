@@ -1,0 +1,13 @@
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\bin\Release\libhgui.exe
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\bin\Release\libhgui.pdb
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\MainWindow.baml
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\MainWindow.g.cs
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\App.g.cs
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\libhgui_MarkupCompile.cache
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\libhgui.g.resources
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\libhgui.Properties.Resources.resources
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\libhgui.exe
+C:\Users\stephen\Documents\Visual Studio 2010\Projects\MyAddin3\libhgui\obj\x86\Release\libhgui.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <lib name="opengl">
+    <include>C:\workspace\openGL\freeglut-2.8.0\include\GL</include>
+    <debug>C:\workspace\openGL\freeglut-2.8.0\lib\x86\Debug</debug>
+    <release>C:\workspace\openGL\freeglut-2.8.0\lib\x86</release>
+    <debugx64>C:\workspace\openGL\freeglut-2.8.0\lib\x64\Debug</debugx64>
+    <releasex64>C:\workspace\openGL\freeglut-2.8.0\lib\x64</releasex64>
+    <lrelease></lrelease>
+    <ldebug></ldebug>
+    <ldebugx64></ldebugx64>
+    <lreleasex64></lreleasex64>
+  </lib>
+</data>
